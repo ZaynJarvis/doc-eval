@@ -20,14 +20,3 @@ Age: 35
 Gender: Male
 Hobby: painting, traveling
 
----
-Name: David
-Age: 28
-Gender: Male
-Hobby: music, gaming
-
----
-Name: Eve
-Age: 22
-Gender: Female
-Hobby: yoga, painting
